@@ -1,3 +1,7 @@
+## ver 2.1
+
+- "https://chatgpt.com/*" を追加。
+
 ## ver 2.0
 
 - MutationObserverでDOMの変更を検知し、自分のアイコンを削除。  
